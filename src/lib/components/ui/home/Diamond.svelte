@@ -11,7 +11,7 @@
 		'images/banners/logo.jpg',
 		'images/banners/OurprojectsBanner.jpg',
 		'images/banners/OurPrpductsBanner.jpg',
-		'images/banners/ShoppingBanner.jpg'
+		'images/banners/OurBanner.jpg'
 	];
 	let text_arr = [
 		'Flooring',
