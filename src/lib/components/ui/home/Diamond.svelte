@@ -25,7 +25,18 @@
 		'Products',
 		'Become a Partner'
 	];
-	let hrefs_arr = ['/floor', '/', 'https://shop.grresin.com/', '/', '/', '/', '/', '/', '/', '/'];
+	let hrefs_arr = [
+		'/floor',
+		'/',
+		'https://shop.grresin.com/',
+		'/#contact',
+		'/about',
+		'/',
+		'/',
+		'/',
+		'/',
+		'/#contact'
+	];
 	let { cssClass }: { cssClass: string } = $props();
 </script>
 

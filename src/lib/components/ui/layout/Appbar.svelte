@@ -110,7 +110,7 @@
 				<div class="mx-auto max-w-screen-2xl px-6 pb-4">
 					<nav id="mobile-menu" class="flex flex-col gap-3 py-4">
 						<a class={mobileMenuClass} href="/">{m.Home()}</a>
-						<a class={mobileMenuClass} href="/">{m.Flooring()}</a>
+						<a class={mobileMenuClass} href="/floor">{m.Flooring()}</a>
 						<a class={mobileMenuClass} href="/about">{m.About()}</a>
 						<div class="flex w-min flex-row text-black">
 							{#each availableLanguageTags as lang}
