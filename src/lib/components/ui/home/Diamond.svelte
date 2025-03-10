@@ -4,14 +4,14 @@
 	let img_arr = [
 		'images/banners/floor.jpg',
 		'images/banners/arts.jpg',
-		'images/banners/Shopping Banner.jpg',
-		'images/banners/Sale Banner.jpg',
+		'images/banners/ShoppingBanner.jpg',
+		'images/banners/SaleBanner.jpg',
 		'images/banners/aboutus.jpg',
 		'images/banners/ownfloor.jpg',
 		'images/banners/logo.jpg',
-		'images/banners/Our projects Banner.jpg',
-		'images/banners/Our Prpducts Banner.jpg',
-		'images/banners/Partner Banner.jpg'
+		'images/banners/OurprojectsBanner.jpg',
+		'images/banners/OurPrpductsBanner.jpg',
+		'images/banners/PartnerBanner.jpg'
 	];
 	let text_arr = [
 		'Flooring',
